@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NabaJyotiBorah
+- 👀 I’m interested in Coading and Gaming
+- 🌱 I’m currently learning DevOps , Rust
